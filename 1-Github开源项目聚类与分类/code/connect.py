@@ -5,13 +5,11 @@ from odps.df import DataFrame
 import pandas as pd
 import numpy as np
 
-def get_odps(ACCESS_ID = 'LTAI5t9uwJrh5eJ7Q5E37D1s',
-             SECRET_ACCESS_KEY = 'NCFHOAnvqfnTrpypgR4b3cNawP8fnB',
+def get_odps(ACCESS_ID = '',
+             SECRET_ACCESS_KEY = '',
              ODPS_PROJECT = 'OpenDigger_prod_dev',
              ODPS_ENDPOINT = 'http://service.cn-shanghai.maxcompute.aliyun.com/api'):
 
-    # ACCESS_ID = 'LTAI5tSjrYp6JDW2bbiTdegU'
-    # SECRET_ACCESS_KEY = 'OE6JbSqOZUey5fzr9Wg6fuYYKvslZx'
     # 创建odps实例
     o = ODPS(ACCESS_ID, SECRET_ACCESS_KEY,
              project=ODPS_PROJECT, endpoint=ODPS_ENDPOINT)
