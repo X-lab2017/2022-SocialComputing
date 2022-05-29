@@ -1,0 +1,92 @@
+,file,times
+0,src/views/ExercisePage.vue,13
+1,src/views/ListWordsPage.vue ,2
+2,src/views/ReviewPage.vue,3
+3,src/views/SelectUnit.vue,5
+4,src/views/TabsPage.vue,3
+5,tests/unit/random-review.spec.js,2
+6,tests/unit/start-exercise.spec.js,5
+7,src/entity/Exercise.js,3
+8,src/views/ListWordsPage.vue,6
+9,src/entity/Unit.js,2
+10,src/entity/Word.js,1
+11,src/views/RandomReviewPage.vue,1
+12,src/views/SelectWordbook.vue,5
+13,tests/unit/generate-exercise.spec.js,7
+14,src/views/LearnPage.vue,2
+15,src/views/LearnWord.vue ,2
+16,src/views/LearnWord.vue,4
+17,tests/unit/select-wordbook.spec.js,3
+18,tests/unit/example.spec.js,2
+19,src/Entity.zip,2
+20,src/router/index.js,5
+21,tests/unit/views/4-2.spec.js,2
+22,tests/unit/views/LearnWord.spec.js,1
+23,src/views/SelectUnit.vue  ,1
+24,{lib => src/lib}/Queue.js,1
+25,lib/Queue.js,1
+26,{resources => src/assets}/Book0/Unit0.json,1
+27,{resources => src/assets}/Book0/Unit1.json,1
+28,{resources => src/assets}/Book0/Unit2.json,1
+29,{resources => src/assets}/Book0/Unit3.json,1
+30,{resources => src/assets}/Book0/Unit4.json,1
+31,{resources => src/assets}/Book1/Unit0.json,1
+32,{resources => src/assets}/Book1/Unit1.json,1
+33,{resources => src/assets}/Book1/Unit2.json,1
+34,{resources => src/assets}/Book1/Unit3.json,1
+35,{resources => src/assets}/Book1/Unit4.json,1
+36,{resources => src/assets}/Book2/Unit0.json,1
+37,{resources => src/assets}/Book2/Unit1.json,1
+38,{resources => src/assets}/Book2/Unit2.json,1
+39,{resources => src/assets}/Book2/Unit3.json,1
+40,{resources => src/assets}/Book2/Unit4.json,1
+41,{resources => src/assets}/Book3/Unit0.json,1
+42,{resources => src/assets}/Book3/Unit1.json,1
+43,{resources => src/assets}/Book3/Unit2.json,1
+44,{resources => src/assets}/Book3/Unit3.json,1
+45,{resources => src/assets}/Book3/Unit4.json,1
+46,{resources => src/assets}/data.xls,1
+47,{resources => src/assets}/data.xlsx,1
+48,{resources => src/assets}/xls2json.py,1
+49,src/{Entity => entity}/Exercise.js,1
+50,src/{Entity => entity}/Option.js,1
+51,src/{Entity => entity}/Unit.js,1
+52,src/{Entity => entity}/Word.js,1
+53,src/main.js,1
+54,tests/unit/generate-exercises.spec.js,4
+55,src/Entity/Unit.js,5
+56,src/Entity/Word.js,4
+57,resources/Book0/Unit0.json,2
+58,resources/Book0/Unit1.json,2
+59,resources/Book0/Unit2.json,2
+60,resources/Book0/Unit3.json,2
+61,resources/Book0/Unit4.json,2
+62,resources/Book1/Unit0.json,2
+63,resources/Book1/Unit1.json,2
+64,resources/Book1/Unit2.json,2
+65,resources/Book1/Unit3.json,2
+66,resources/Book1/Unit4.json,2
+67,resources/Book2/Unit0.json,2
+68,resources/Book2/Unit1.json,2
+69,resources/Book2/Unit2.json,2
+70,resources/Book2/Unit3.json,2
+71,resources/Book2/Unit4.json,2
+72,resources/Book3/Unit0.json,2
+73,resources/Book3/Unit1.json,2
+74,resources/Book3/Unit2.json,2
+75,resources/Book3/Unit3.json,2
+76,resources/Book3/Unit4.json,2
+77,resources/xls2json.py,2
+78,resources/data.xls,1
+79,resources/data.xlsx,2
+80,tests/unit/Option.spec.js,1
+81,tests/unit/generate-exercise-1.spec.js,1
+82,src/Entity/Option.js,2
+83,src/Entity/Exercise.js,1
+84,src/views/{Tab1Page.vue => ReviewPage.vue},1
+85,src/views/SettingsPage.vue,1
+86,src/views/Tab2Page.vue,1
+87,src/views/Tab3Page.vue,1
+88,README.md,2
+89,package-lock.json,2
+90,package.json,2

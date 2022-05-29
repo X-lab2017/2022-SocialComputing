@@ -1,0 +1,14 @@
+,file,times
+0,package-lock.json,4
+1,package.json,4
+2,src/views/ExercisePage.vue,2
+3,src/views/ReviewPage.vue,2
+4,src/views/LearnWord.vue,4
+5,src/views/SelectUnit.vue,2
+6,src/router/index.js,2
+7,src/views/LearnPage.vue,1
+8,resources/data.xls,1
+9,src/main.js,1
+10,tests/unit/views/4-2.spec.js,1
+11,tests/unit/Option.spec.js,1
+12,tests/unit/views/LearnWord.spec.js,1
