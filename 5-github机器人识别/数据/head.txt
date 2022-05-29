@@ -1,0 +1,15 @@
+from odps import ODPS
+from odps import options
+from odps.df import DataFrame
+import pandas as pd
+import numpy as np
+
+ACCESS_ID = 'LTAI5t9uwJrh5eJ7Q5E37D1s'
+SECRET_ACCESS_KEY = 'NCFHOAnvqfnTrpypgR4b3cNawP8fnB'
+ODPS_PROJECT = 'OpenDigger_prod_dev'
+ODPS_ENDPOINT = 'http://service.cn-shanghai.maxcompute.aliyun.com/api'
+# 创建odps实例
+o = ODPS(ACCESS_ID, SECRET_ACCESS_KEY,
+         project=ODPS_PROJECT, endpoint=ODPS_ENDPOINT)
+options.tunnel.limit_instance_tunnel = False
+# options.read_timeout = 3600000
