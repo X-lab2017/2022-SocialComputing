@@ -1,0 +1,186 @@
+19302010065@fudan.edu.cn
+src/views/ExercisePage.vue
+src/views/ListWordsPage.vue 
+src/views/ReviewPage.vue
+src/views/SelectUnit.vue
+src/views/TabsPage.vue
+tests/unit/random-review.spec.js
+tests/unit/start-exercise.spec.js
+src/entity/Exercise.js
+src/views/ExercisePage.vue
+src/views/ListWordsPage.vue
+src/views/ReviewPage.vue
+src/views/SelectUnit.vue
+src/views/TabsPage.vue
+tests/unit/random-review.spec.js
+tests/unit/start-exercise.spec.js
+src/entity/Exercise.js
+src/entity/Unit.js
+src/entity/Word.js
+src/views/ExercisePage.vue
+src/views/ListWordsPage.vue
+src/views/RandomReviewPage.vue
+src/views/ReviewPage.vue
+src/views/SelectWordbook.vue
+tests/unit/generate-exercise.spec.js
+src/views/ExercisePage.vue
+src/views/LearnPage.vue
+src/views/LearnWord.vue 
+src/views/ListWordsPage.vue
+src/views/SelectUnit.vue
+src/views/SelectWordbook.vue
+src/views/ExercisePage.vue
+src/views/LearnWord.vue
+src/views/ListWordsPage.vue
+src/views/SelectUnit.vue
+src/views/SelectWordbook.vue
+tests/unit/start-exercise.spec.js
+tests/unit/select-wordbook.spec.js
+tests/unit/select-wordbook.spec.js
+src/views/SelectWordbook.vue
+tests/unit/example.spec.js
+tests/unit/select-wordbook.spec.js
+src/Entity.zip
+src/router/index.js
+src/views/ExercisePage.vue
+src/views/LearnWord.vue 
+src/views/ListWordsPage.vue 
+tests/unit/views/4-2.spec.js
+tests/unit/views/LearnWord.spec.js
+src/views/ExercisePage.vue
+tests/unit/start-exercise.spec.js
+src/views/SelectWordbook.vue
+src/views/ExercisePage.vue
+src/views/LearnWord.vue
+src/views/ListWordsPage.vue
+src/views/SelectUnit.vue  
+src/views/LearnWord.vue
+src/views/SelectUnit.vue
+src/router/index.js
+src/views/ExercisePage.vue
+tests/unit/start-exercise.spec.js
+src/Entity.zip
+src/entity/Unit.js
+src/router/index.js
+src/views/ExercisePage.vue
+src/views/ListWordsPage.vue
+src/views/ExercisePage.vue
+src/entity/Exercise.js
+{lib => src/lib}/Queue.js
+src/views/ExercisePage.vue
+lib/Queue.js
+{resources => src/assets}/Book0/Unit0.json
+{resources => src/assets}/Book0/Unit1.json
+{resources => src/assets}/Book0/Unit2.json
+{resources => src/assets}/Book0/Unit3.json
+{resources => src/assets}/Book0/Unit4.json
+{resources => src/assets}/Book1/Unit0.json
+{resources => src/assets}/Book1/Unit1.json
+{resources => src/assets}/Book1/Unit2.json
+{resources => src/assets}/Book1/Unit3.json
+{resources => src/assets}/Book1/Unit4.json
+{resources => src/assets}/Book2/Unit0.json
+{resources => src/assets}/Book2/Unit1.json
+{resources => src/assets}/Book2/Unit2.json
+{resources => src/assets}/Book2/Unit3.json
+{resources => src/assets}/Book2/Unit4.json
+{resources => src/assets}/Book3/Unit0.json
+{resources => src/assets}/Book3/Unit1.json
+{resources => src/assets}/Book3/Unit2.json
+{resources => src/assets}/Book3/Unit3.json
+{resources => src/assets}/Book3/Unit4.json
+{resources => src/assets}/data.xls
+{resources => src/assets}/data.xlsx
+{resources => src/assets}/xls2json.py
+src/{Entity => entity}/Exercise.js
+src/{Entity => entity}/Option.js
+src/{Entity => entity}/Unit.js
+src/{Entity => entity}/Word.js
+src/main.js
+src/router/index.js
+src/views/ExercisePage.vue
+src/views/LearnWord.vue
+tests/unit/example.spec.js
+tests/unit/generate-exercise.spec.js
+tests/unit/generate-exercises.spec.js
+tests/unit/views/4-2.spec.js
+src/Entity/Unit.js
+src/Entity/Word.js
+tests/unit/generate-exercise.spec.js
+resources/Book0/Unit0.json
+resources/Book0/Unit1.json
+resources/Book0/Unit2.json
+resources/Book0/Unit3.json
+resources/Book0/Unit4.json
+resources/Book1/Unit0.json
+resources/Book1/Unit1.json
+resources/Book1/Unit2.json
+resources/Book1/Unit3.json
+resources/Book1/Unit4.json
+resources/Book2/Unit0.json
+resources/Book2/Unit1.json
+resources/Book2/Unit2.json
+resources/Book2/Unit3.json
+resources/Book2/Unit4.json
+resources/Book3/Unit0.json
+resources/Book3/Unit1.json
+resources/Book3/Unit2.json
+resources/Book3/Unit3.json
+resources/Book3/Unit4.json
+resources/xls2json.py
+src/Entity/Unit.js
+resources/Book0/Unit0.json
+resources/Book0/Unit1.json
+resources/Book0/Unit2.json
+resources/Book0/Unit3.json
+resources/Book0/Unit4.json
+resources/Book1/Unit0.json
+resources/Book1/Unit1.json
+resources/Book1/Unit2.json
+resources/Book1/Unit3.json
+resources/Book1/Unit4.json
+resources/Book2/Unit0.json
+resources/Book2/Unit1.json
+resources/Book2/Unit2.json
+resources/Book2/Unit3.json
+resources/Book2/Unit4.json
+resources/Book3/Unit0.json
+resources/Book3/Unit1.json
+resources/Book3/Unit2.json
+resources/Book3/Unit3.json
+resources/Book3/Unit4.json
+resources/data.xls
+resources/data.xlsx
+resources/xls2json.py
+tests/unit/generate-exercises.spec.js
+src/Entity/Word.js
+tests/unit/generate-exercise.spec.js
+tests/unit/generate-exercises.spec.js
+resources/data.xlsx
+tests/unit/generate-exercise.spec.js
+src/Entity/Unit.js
+tests/unit/Option.spec.js
+tests/unit/generate-exercise-1.spec.js
+tests/unit/generate-exercise.spec.js
+tests/unit/generate-exercises.spec.js
+src/Entity/Option.js
+src/Entity/Unit.js
+src/Entity/Word.js
+tests/unit/generate-exercise.spec.js
+src/Entity/Exercise.js
+src/Entity/Option.js
+src/Entity/Unit.js
+src/Entity/Word.js
+src/router/index.js
+src/views/LearnPage.vue
+src/views/{Tab1Page.vue => ReviewPage.vue}
+src/views/SettingsPage.vue
+src/views/Tab2Page.vue
+src/views/Tab3Page.vue
+src/views/TabsPage.vue
+README.md
+package-lock.json
+package.json
+README.md
+package-lock.json
+package.json
