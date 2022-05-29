@@ -1,0 +1,41 @@
+description = 'dga-graphx'
+
+apply plugin: 'scala'
+
+version = '0.1'
+
+
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+    
+url "https://repository.cloudera.com/artifactory/cloudera-repos"
+    }
+   
+}
+ 
+dependencies {
+    implementation 'org.scala-lang:scala-library:2.10.3'
+    implementation group: 'org.apache.spark', name: 'spark-core_2.10', version: '0.9.0-cdh5.0.0-beta-2'
+    implementation group: 'org.apache.spark', name: 'spark-graphx_2.10', version: '0.9.0-cdh5.0.0-beta-2'
+    implementation group: 'com.github.scopt', name: 'scopt_2.10', version: '3.2.0'
+    implementation(
+      [group: 'org.slf4j', name: 'slf4j-api', version: '1.6.6'],
+      [group: 'org.slf4j', name: 'slf4j-log4j12', version: '1.6.6']
+    )
+    implementation(
+            [group: 'com.aliyun.odps', name: 'odps-sdk-core', version: '0.28.4-public'],
+            [group: 'com.aliyun.odps', name: 'odps-aliyun-commons', version: '0.28.4-public']
+    )
+}
+
+
+task dist(dependsOn: 'assemble', type: Copy) {
+        from configurations.runtimeClasspath
+        from jar
+        include "**/*.jar"
+        into "${buildDir}/dist"
+}
+
